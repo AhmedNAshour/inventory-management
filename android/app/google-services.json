@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "699498342452",
+    "firebase_url": "https://sales-inventory-e5329.firebaseio.com",
+    "project_id": "sales-inventory-e5329",
+    "storage_bucket": "sales-inventory-e5329.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699498342452:android:19a7460ce2c67c2e820261",
+        "android_client_info": {
+          "package_name": "com.sales.inventory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699498342452-nh8gjvg4bhbjlr9tdpsuocko9p1af54b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjyt4A0nit6C8TgG9QrIFE9Qles0CIFfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699498342452-nh8gjvg4bhbjlr9tdpsuocko9p1af54b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
